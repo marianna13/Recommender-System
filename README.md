@@ -1,4 +1,4 @@
-# Recommender-System
+# Recommender System
 
 Recommender module is the model for recommendation prediction. 
 Recommender is built on matrix factorization algorithm.
